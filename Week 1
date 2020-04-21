@@ -1,3 +1,8 @@
+## This is first assignment of Applied Data Science Capstone Project
+* we have to import liberary
+* print Hello 
+
+
 import pandas as pd 
 import numpy as np 
 
